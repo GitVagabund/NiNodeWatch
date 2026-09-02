@@ -13,6 +13,16 @@ The plugin is intended for difficult CTDs where conventional crash logs do not c
 
 NiNodeWatch is currently built specifically for Skyrim SE 1.5.97.
 
+## AI-assisted development
+
+NiNodeWatch was developed with substantial assistance from OpenAI's ChatGPT.
+
+AI was used to help design, write, review, and iterate on the source code and documentation.
+
+The plugin was compiled, tested, and validated in a real Skyrim SE 1.5.97 environment by the repository owner.
+
+The source code is published openly so that users and developers can review it before use.
+
 ## What it does
 
 NiNodeWatch hooks several NiNode / NiTObjectArray operations and records:
@@ -116,7 +126,7 @@ A PowerShell build helper is also included:
 
 build.ps1
 
-License
+## License
 
 License information will be added separately.
 
